@@ -1,0 +1,226 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #007CED;
+    color: white;
+}
+
+.main_part {
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    width: 1200px;
+    background-color: #222222;
+    border-radius: 40px;
+}
+
+.main_menu {
+    margin-left: 110px;
+}
+
+.header {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.image {
+    padding-left: 20px;
+    margin-top: 7px;
+}
+
+.top_name {
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 200px;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.menu li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: gray;
+}
+
+.menu li a:hover {
+    color: white;
+}
+
+.body_part {
+    display: flex;
+    width: 1000px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.body_left {
+    padding-left: 40px;
+}
+
+.skills {
+    padding-top: 70px;
+    font-size: 15px;
+    color: gray;
+}
+
+.profile_name {
+    margin-top: 0;
+    font-size: 45px;
+}
+
+.pro_pic {
+    padding-top: 80px;
+}
+
+.body_part div p {
+    width: 500px;
+    text-align: justify;
+    margin-top: 0;
+}
+
+.body_part div a {
+    text-decoration: none;
+    background: #222222;
+    padding: 10px 30px;
+    border: 2px solid;
+    border-radius: 50px;
+    border-color: #007CED;
+    color: white;
+    font-weight: 500;
+}
+
+.body_part div a:hover {
+    background-color: #007CED;
+    color: white;
+}
+
+.border {
+    width: 500px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.border h3 {
+    margin-top: 0;
+    margin-left: 10px;
+}
+
+.border p {
+    text-align: justify;
+    margin-top: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.info {
+    display: flex;
+}
+
+.clients {
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+.clients a {
+    text-decoration: none;
+    color: gray;
+    margin-left: 45px;
+    margin-right: 45px;
+    font-size: 30px;
+}
+
+.clients a:hover {
+    color: lightgray;
+}
+
+.fun_fact {
+    display: flex;
+    margin-bottom: 75px;
+}
+
+.fun_border {
+    text-align: center;
+    border: 2px solid gray;
+    box-shadow: 3px 3px 5px lightgray;
+    border-radius: 15px;
+    width: 200px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.pricing {
+    display: flex;
+}
+
+.pricing_details {
+    width: 300px;
+    height: 350px;
+    border: 2px solid gray;
+    box-shadow: 3px 3px 5px lightgray;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.pricing_details a {
+    text-decoration: none;
+    background: #222222;
+    padding: 10px 30px;
+    border: 2px solid;
+    border-radius: 50px;
+    border-color: #007CED;
+    color: white;
+    font-weight: 500;
+}
+
+.pricing_details a:hover {
+    background-color: #007CED;
+    color: white;
+}
+
+.pricing_details p {
+    margin-top: 30px;
+}
+
+.main_part hr {
+    border: 1px solid gray;
+}
+
+footer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer a {
+    color: gray;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+footer a:hover {
+    color: white;
+}
+
+footer p {
+    display: inline;
+    margin-left: 625px;
+}
